@@ -5,7 +5,7 @@
 I'm a passionate Cloud Engineer/DevOps Engineer with 3.5 years of experience in designing, deploying, and managing cloud resources and services. My expertise lies in AWS, Azure, Docker, Kubernetes, and Jenkins, ensuring high availability, disaster recovery, and effective cloud cost control.
 
 ## 🔧 Skills & Tools
-- **Cloud Platforms**: ![AWS] (https://miro.medium.com/v2/resize:fit:1280/1*3Es4F4WU-xr6SBoEFwvSmg.gif)
+  - **Cloud Platforms**: ![AWS]https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40adityakumdale%2Fmy-10-100-days-of-aws-a-journey-into-cloud-computing-998a0b8d45da&psig=AOvVaw1i4FS0UVYMlKSH32cdlWw7&ust=1723054844577000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCtodL94IcDFQAAAAAdAAAAABAJ
 - **DevOps Tools**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 - **Infrastructure as Code**: ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 - **Big Data**: EMR, Glue, RDS, S3
